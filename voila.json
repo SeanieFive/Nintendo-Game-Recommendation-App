@@ -1,0 +1,9 @@
+{
+  "VoilaConfiguration": {
+    "theme": "dark",
+    "template": "default",
+    "Voila": {
+      "enable_nbextensions": true
+    }
+  }
+}
