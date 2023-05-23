@@ -1,5 +1,5 @@
-bqplot
-ipympl
-ipyvolume
-scipy
+ipywidgets
+pandas
+matplotlib
+scikit-learn
 voila
