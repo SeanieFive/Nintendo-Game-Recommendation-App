@@ -1,3 +1,2 @@
 # Nintendo-Game-Recommendation-App
-
-For Capstone Project
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeanieFive/Nintendo-Game-Recommendation-App.git/HEAD?urlpath=voila%2Frender%2FNintendo_Game_Recommendation_App.ipynb)
