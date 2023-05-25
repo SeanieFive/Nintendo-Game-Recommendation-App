@@ -2,4 +2,5 @@ ipywidgets
 pandas
 matplotlib
 scikit-learn
+ipython
 voila
